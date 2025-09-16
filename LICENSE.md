@@ -1,4 +1,4 @@
-# KANGDEOKSAN DEEP ADVENTURE PUBLIC LICENSE
+# KWANGDEOKSAN DEEP ADVENTURE PUBLIC LICENSE
 
 [Source](https://github.com/zhaoxiuya/kda)
 
@@ -23,6 +23,6 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
    e. Respect Authorship: Do not claim to be the original author when copying, modifying, or distributing this work.  
 
 3. Violation
-   Anyone violating these terms will receive a one-way invitation to the underground of Gwangdeoksan.
+   Anyone violating these terms will receive a one-way invitation to the underground of Kwangdeoksan.
 
 > Copyright (C) since Epoch 1758022064 — Xiuya Zhao
