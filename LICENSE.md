@@ -15,7 +15,7 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 1. Freedom to Use
    You may copy, modify, and distribute this work or its derivatives, as long as you "play fair".
 
-2. Play Fair Means
+2. Play Fair Means  
    a. No Liability: The author assumes no liability for this work or its derivatives under any circumstances.  
    b. Preserve License: If you redistribute derivatives, you must keep this license intact and add your copyright notice at the end.  
    c. Profit Sharing: If you profit from this work or its derivatives, a portion of that profit must be given back to society.  
