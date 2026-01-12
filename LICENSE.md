@@ -1,28 +1,36 @@
-# KWANGDEOKSAN DEEP ADVENTURE PUBLIC LICENSE
+# 광덕산 지하 모험 공중 라이선스 1.0.0판
 
-[Source](https://github.com/zhaoxiuya/kda)
-
-> Version 0.0.0, since Epoch 1758022064
-
-Everyone is permitted to copy and distribute verbatim or modified copies of this license document.
-
-> KANGDEOKSAN DEEP ADVENTURE PUBLIC LICENSE
-> TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
-
-0. Scope of Application  
-   This license applies the moment you use this work or its derivatives, even once, anywhere in spacetime.
-
-1. Freedom to Use  
-   You may copy, modify, and distribute this work or its derivatives, as long as you "play fair".
-
-2. Play Fair Means  
-   a. No Liability: The author assumes no liability for this work or its derivatives under any circumstances.  
-   b. Preserve License: If you redistribute derivatives, you must keep this license intact and add your copyright notice at the end.  
-   c. Profit Sharing: If you profit from this work or its derivatives, a portion of that profit must be given back to society.  
-   d. Do No Harm: You must not use this work or its derivatives to harm others.  
-   e. Respect Authorship: Do not claim to be the original author when copying, modifying, or distributing this work.  
-
-3. Violation  
-   Anyone violating these terms will receive a one-way invitation to the underground of Kwangdeoksan.
-
-> Copyright (C) since Epoch 1758022064 — Xiuya Zhao
+1. 정의
+   1. 원저작물이란 본 라이선스가 적용된 저작물 및 그 원본을 말한다.
+   2. 파생물이란 원저작물을 사용, 복제, 수정, 병합하거나, 원저작물의 실질적인 일부분을 포함하여 제작된 2차적 저작물을 말한다.
+   3. 배포란 복제물을 제공, 게시, 판매하는 행위이다. 
+   4. 저작물 표시란 본 라이선스 문서의 "저작물 표시 목록"에 기록되는 "Copyright (C) {저작권 표기 시점의 유닉스 시간} {저작권 소유자의 이름}"과 같은 형식의 표시를 말한다.
+   5. 기타 정의
+      1. 시간은 지구의 유닉스 시간을 기준으로 초 단위로 표기한다.
+      2. 위치는 플러스 코드를 기준으로 표기한다.
+      3. 화폐 가치의 단위는 금-197 원자 602,214,076,000,000개의 국제 시장에서의 가치를 1 NAUM으로 한다.
+2. 허용 범위
+   1. 누구나 본 라이선스 문서의 원본 또는 복사본을 수정 및 배포할 수 있다.
+   2. 누구나 본 라이선스가 적용된 저작물을 아래 준수 사항을 준수하는 한 사용, 복제, 수정, 병합, 게시, 배포, 판매할 수 있다. 
+3. 준수 사항
+   1. 본 라이선스가 적용된 저작물을 이용하여 파생물을 제작하는 경우, 파생물에는 반드시 아래의 조건을 만족하는 형태로 본 라이선스를 동봉해야 한다.
+      1. 파생물의 모든 배포물 안에 본 라이선스 전문을 포함해야 한다.
+      2. 본 라이선스의 본래 기록되어 있던 기존의 저작물 표시를 삭제해서는 안 된다.
+      3. 파생물의 저작자는 저작물 표시 목록 최하단에 자신의 저작물 표시를 추가해야 한다.
+      4. 추가하는 저작물 표시는 저작물 표시 목록 최상단의 저작물 표시와 같은 형식을 따라야 한다.
+   2. 본 라이선스가 중복되는 경우, 각 저작물의 저작물 표시 목록을 병합하고 저작물 표시를 시간 기준 오름차순으로 정렬한 뒤, 정렬된 목록을 저작물 표시 목록으로 포함하는 새로운 라이선스 문서 1부로 통합하여야 한다.
+   3. 본 라이선스가 적용된 저작물을 통하여 수익을 창출할 경우, 그 수익의 일부를 연 1회 이상 아래의 조건을 만족하는 형태로 사회에 환원해야 한다.
+      1. 수익의 일부란 아래 중 가장 큰 금액 이상을 의미한다.
+         1. 해당 수익의 순이익 / 256
+         2. 해당 수익의 매출 / 128
+         3. 65,536 NAUM
+      2. 수익의 사회 환원은 누구나 열람할 수 있는 형태로 연 1회 이상 기록되어야 한다.
+   4. 본 라이선스가 적용된 저작물을 사용하는 과정에서 원저작자가 아닌 자가 자신이 원저작자임을 주장해서는 안 된다.
+4. 기타
+   1. 본 라이선스 문서는 [광덕산 지하 모험 공중 라이선스 1.0.0판](https://github.com/zhaoxiuya/kda)을 따른다.
+   2. 원저작물은 "있는 그대로" 제공되며, 원저작자는 원저작물에 대해 어떠한 보증도 제공하지 않는다.
+   3. 본 라이선스가 적용된 저작물을 이타적으로 사용한다면 본 라이선스 문서 원저작자의 재량에 따라 광덕산(8Q988RQQ+GH) 지상에 왕복으로 초대받을 수 있다.
+   4. 본 라이선스를 위반하는 자는 본 라이선스 문서의 원저작자에 의해 광덕산(8Q988RQQ+GH) 지하에 편도로 초대되며, 위반 사항을 정정할 경우 초대는 취소된다.
+   
+# 저작물 표시 목록
+* Copyright (C) 1768208485 zhaoxiuya
